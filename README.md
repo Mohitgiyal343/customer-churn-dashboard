@@ -30,4 +30,19 @@ The dashboard provides an **interactive view of churn metrics** and helps busine
 
 ---
 
-## 📂 Project Structure  
+📈 Key Insights
+
+Customers with month-to-month contracts have the highest churn.
+
+Senior citizens are more likely to churn compared to younger customers.
+
+Electronic check payments are strongly associated with higher churn.
+
+Longer tenure significantly reduces churn probability.
+
+🔮 Future Improvements
+
+Add predictive churn analysis using ML (optional future extension)
+
+Create a real-time dashboard using live data sources
+
